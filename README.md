@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--
-**chain312/chain312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 &nbsp;I’m currently working on content related to SOAR.
+- 🧐 &nbsp;I’m a CTFer, although I have not won any international competitions, and currently, I mainly focus on solving challenges in the categories of misc and web.
+- 🌱 &nbsp;I’m currently learning Vue, Go, pwn, re
+- 💬 &nbsp;Ask me about anything related to Python or Format string vulnerabilities in pwn or stack-related challenges.
+- ⚡ &nbsp;Fun fact: I enjoy swimming, photography, and cats.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨&nbsp; About Me
+
+I am currently developing SOAR. If you're interested, we can discuss it further.
+
